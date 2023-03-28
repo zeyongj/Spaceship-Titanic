@@ -39,13 +39,15 @@ The machine learning model used in this project is a random forest classifier. T
 
 ## Usage
 
-To run the code in this repository, follow these steps:
+- To run the code in this repository, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Open the `titanic.ipynb` notebook in Jupyter Notebook or JupyterLab.
 3. Run the code in the notebook to preprocess the data and train the machine learning model.
 4. Generate predictions on the test data using the trained model.
 5. Submit your predictions to the competition on Kaggle.
+
+- Or you can execute the python file by running `python titanic.py`.
 
 ## Discussion
 
