@@ -65,13 +65,7 @@ In conclusion, the Titanic competition provides a great opportunity to practice 
 
 ## Citation
 
-@misc{spaceship-titanic,
-  author = {Addison Howard, Ashley Chow, Ryan Holbrook},
-  title = {Spaceship Titanic},
-  publisher = {Kaggle},
-  year = {2022},
-  url = {https://kaggle.com/competitions/spaceship-titanic}
-}
+A. Howard, A. Chow, and R. Holbrook, "Spaceship Titanic," Kaggle, 2022. [Online]. Available: https://kaggle.com/competitions/spaceship-titanic. [Accessed: March 27, 2023].
 
 
 ## License
