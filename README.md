@@ -47,12 +47,6 @@ To run the code in this repository, follow these steps:
 4. Generate predictions on the test data using the trained model.
 5. Submit your predictions to the competition on Kaggle.
 
-## Conclusion
-
-The classifier achieved an accuracy score of *0.7797584818861415* on the validation set. The predictions made on the test set were submitted to Kaggle, resulting in a score of *0.79471*.
-
-In conclusion, the Titanic competition provides a great opportunity to practice data preprocessing and machine learning skills. By building a machine learning model to predict survival on the Titanic, we can gain insights into the factors that may have contributed to survival and develop a deeper understanding of the tragedy that occurred in 1912.
-
 ## Discussion
 
 Some potential methods to improve the score:
@@ -62,6 +56,12 @@ Some potential methods to improve the score:
 - Try Different Models: try different models and compare their performances. Some other models that you could try are XGBoost, LightGBM, and CatBoost.
 - Ensemble Methods: try combining multiple models together to improve the overall performance. For example, you can train multiple random forest models and combine their predictions using a voting classifier.
 - Regularization: try adding regularization to your model, such as L1 and L2 regularization, and see how it affects the performance.
+
+## Conclusion
+
+The classifier achieved an accuracy score of *0.7797584818861415* on the validation set. The predictions made on the test set were submitted to Kaggle, resulting in a score of *0.79471*.
+
+In conclusion, the Titanic competition provides a great opportunity to practice data preprocessing and machine learning skills. By building a machine learning model to predict survival on the Titanic, we can gain insights into the factors that may have contributed to survival and develop a deeper understanding of the tragedy that occurred in 1912.
 
 ## License
 This project is licensed under the Apache 2.0 or later License - see the LICENSE file for details.
