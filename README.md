@@ -66,11 +66,11 @@ In conclusion, the Titanic competition provides a great opportunity to practice 
 ## Citation
 
 @misc{spaceship-titanic,
-    author = {Addison Howard, Ashley Chow, Ryan Holbrook},
-    title = {Spaceship Titanic},
-    publisher = {Kaggle},
-    year = {2022},
-    url = {https://kaggle.com/competitions/spaceship-titanic}
+  author = {Addison Howard, Ashley Chow, Ryan Holbrook},
+  title = {Spaceship Titanic},
+  publisher = {Kaggle},
+  year = {2022},
+  url = {https://kaggle.com/competitions/spaceship-titanic}
 }
 
 
