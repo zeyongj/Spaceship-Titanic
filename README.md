@@ -4,7 +4,7 @@ This repository contains the code for my submission to the Spaceship Titanic: Pr
 
 ## Project Overview
 
-The goal of the Titanic competition is to build a machine learning model that can predict whether a passenger on the Titanic survived or not based on various features such as their age, gender, and ticket class. The data used in this competition is provided by Kaggle and consists of information about the passengers who were aboard the Titanic when it sank in 1912.
+The Spaceship Titanic Kaggle competition provides a dataset containing information on passengers aboard the Titanic spaceship, including their names, ages, genders, and other relevant features. The goal of the competition is to build a machine learning model that can predict which passengers survived the disaster.
 
 ## File Descriptions
 
