@@ -49,7 +49,7 @@ To run the code in this repository, follow these steps:
 
 ## Conclusion
 
-The classifier achieved an accuracy score of **0.7797584818861415** on the validation set. The predictions made on the test set were submitted to Kaggle, resulting in a score of **0.79471**.
+The classifier achieved an accuracy score of *0.7797584818861415* on the validation set. The predictions made on the test set were submitted to Kaggle, resulting in a score of *0.79471*.
 
 In conclusion, the Titanic competition provides a great opportunity to practice data preprocessing and machine learning skills. By building a machine learning model to predict survival on the Titanic, we can gain insights into the factors that may have contributed to survival and develop a deeper understanding of the tragedy that occurred in 1912.
 
