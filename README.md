@@ -71,9 +71,9 @@ A. Howard, A. Chow, and R. Holbrook, "Spaceship Titanic," Kaggle, 2022. [Online]
 
 
 ## License
-This project is licensed under the Apache 2.0 or later License - see the LICENSE file for details.
+This project is licensed under the Apache 2.0 or later License - see the `LICENSE` file for details.
 
 ## Author
 Zeyong Jin
 
-March 27, 2023
+March 27th, 2023
