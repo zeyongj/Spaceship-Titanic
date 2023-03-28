@@ -33,9 +33,9 @@ The machine learning model used in this project is a random forest classifier. T
 
 ## Dependencies
 
-- [] Python 3.9
-- [] pandas
-- [] scikit-learn
+- [ ] Python 3.9
+- [ ] pandas
+- [ ] scikit-learn
 
 ## Usage
 
