@@ -1,6 +1,6 @@
-# Titanic: Machine Learning from Disaster
+# Spaceship Titanic: Predict which passengers are transported to an alternate dimension
 
-This repository contains the code for my submission to the Titanic: Machine Learning from Disaster competition on Kaggle.
+This repository contains the code for my submission to the Spaceship Titanic: Predict which passengers are transported to an alternate dimension competition on Kaggle.
 
 ## Project Overview
 
