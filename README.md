@@ -63,6 +63,17 @@ The classifier achieved an accuracy score of *0.7797584818861415* on the validat
 
 In conclusion, the Titanic competition provides a great opportunity to practice data preprocessing and machine learning skills. By building a machine learning model to predict survival on the Titanic, we can gain insights into the factors that may have contributed to survival and develop a deeper understanding of the tragedy that occurred in 1912.
 
+## Citation
+
+@misc{spaceship-titanic,
+    author = {Addison Howard, Ashley Chow, Ryan Holbrook},
+    title = {Spaceship Titanic},
+    publisher = {Kaggle},
+    year = {2022},
+    url = {https://kaggle.com/competitions/spaceship-titanic}
+}
+
+
 ## License
 This project is licensed under the Apache 2.0 or later License - see the LICENSE file for details.
 
